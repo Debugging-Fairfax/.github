@@ -77,5 +77,5 @@ We’re trying to **rebuild civic trust** by showing that facts, when verified t
 ### Contact
 
 Suggestions, data sources, or corrections:
-📧 [chris.downey@hey.com](mailto:chris.downey@hey.com) 
+📧 [chris@debuggingfairfax.org](mailto:chris@debuggingfairfax.org) 
 
